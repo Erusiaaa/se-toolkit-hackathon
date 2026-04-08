@@ -11,6 +11,10 @@ The product consists of two parts:
 - Telegram bot for browsing and saving nail designs  
 - Web gallery for viewing and managing saved inspiration  
 
+<img width="2938" height="1780" alt="image" src="https://github.com/user-attachments/assets/3d6e2f54-bfa7-4770-b598-59665371d09e" />
+<img width="3071" height="1611" alt="image" src="https://github.com/user-attachments/assets/00830d51-ec4d-413f-99f3-cb8dc9f462d9" />
+<img width="3071" height="1610" alt="image" src="https://github.com/user-attachments/assets/a28489bd-aa41-47c7-9867-6ee55de5a4ef" />
+
 ---
 
 ## Product context
